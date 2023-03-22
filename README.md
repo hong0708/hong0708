@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 #### Certificate
 
-##### Engineer Information Processing
-##### SQLD
+##### 🌱 Engineer Information Processing
+##### 🌱 SQLD
 
 #### Platform 
 <p>
