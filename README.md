@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong0708)](https://github.com/hong0708/github-readme-stats)(https://github-readme-stats.vercel.app/api?username=hong0708)&hide=stars,contribs&count_private=true&show_icons=true)(https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hong0708&show_icons=true&theme=buefy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaogai2)](https://solved.ac/gaogai2/)
 
