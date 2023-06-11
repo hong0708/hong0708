@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhong0708&count_bg=%2300CBFF&title_bg=%23003BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ##### 🏫 Kwangwoon University, Computer Software (2016.03~2022.02)
-##### 💙 Samsumg SW Academy For Youth(SSAFY) Mobile Track 8th (2022.07~)
+##### 💙 Samsumg SW Academy For Youth(SSAFY) Mobile Track 8th (2022.07~2023.06)
 
 <br/>
 
